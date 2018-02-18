@@ -56,3 +56,6 @@ id:3
 ```
 * Line breaks must be \r\n
 
+# License
+
+GNU General Public License v3.0. See the LICENSE file for more information.
